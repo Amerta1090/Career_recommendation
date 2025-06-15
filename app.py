@@ -37,7 +37,7 @@ page = st.sidebar.radio("Pilih Halaman:", ["Rekomendasi Karier", "Visualisasi Da
 
 # --- Career Recommendation Page ---
 if page == "Rekomendasi Karier":
-    st.title("💼 Sistem Rekomendasi Karier (Float-Input Edition)")
+    st.title("💼 Sistem Rekomendasi Karier")
     st.markdown("Masukkan skor kamu (dalam pecahan diperbolehkan, antara 0-10):")
 
     user_input = []
