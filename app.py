@@ -12,7 +12,7 @@ from io import BytesIO
 st.set_page_config(
     page_title="Pathwise Career AI",
     layout="wide",
-    page_icon="PathWise_Logo.png",
+    page_icon="PathWise_icon.png",
     initial_sidebar_state="collapsed"
 )
 
